@@ -1,6 +1,6 @@
 {
   "name": "random-generator-string",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random string messages",
   "main": "index.js",
   "scripts": {
@@ -21,8 +21,8 @@
     "url": "https://github.com/jonathan-debugger/random-generator-string/issues"
   },
   "homepage": "https://github.com/jonathan-debugger/random-generator-string#readme",
-  "bin":{ 
-    "random-str-msg":"./bin/global.js"
+  "bin": {
+    "random-str-msg": "./bin/global.js"
   },
   "preferGlobal": true
 }
