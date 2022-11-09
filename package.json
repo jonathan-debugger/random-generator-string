@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "random",
+    "generator",
+    "string"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jonathan-debugger/random-generator-string.git"
@@ -16,7 +21,7 @@
     "url": "https://github.com/jonathan-debugger/random-generator-string/issues"
   },
   "homepage": "https://github.com/jonathan-debugger/random-generator-string#readme",
-  "bin":{
+  "bin":{ 
     "random-str-msg":"./bin/global.js"
   },
   "preferGlobal": true
