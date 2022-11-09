@@ -16,7 +16,7 @@ npm install -g random-str-msg
 
 # Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-msg](https://github.com/jonathan-debugger/random-str-msg)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-generator-string](https://github.com/jonathan-debugger/random-generator-string)
 
 # License
 
